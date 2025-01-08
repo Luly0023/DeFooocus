@@ -40,12 +40,20 @@
     "default_overwrite_step": -1,
     "checkpoint_downloads": {
         "realisticStockPhoto_v20.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/realisticStockPhoto_v20.safetensors"
+        
+    },
+     "checkpoint_downloads": {
         "sd_xl_refiner_1.0.safetensors": "https://huggingface.co/stabilityai/stable-diffusion-xl-refiner-1.0/resolve/main/sd_xl_refiner_1.0.safetensors"
     },
+    
     "embeddings_downloads": {},
     "lora_downloads": {
         "SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/SDXL_FILM_PHOTOGRAPHY_STYLE_BetaV0.4.safetensors"
-        "Júlia_Viana-V1.safetensors": "https://drive.usercontent.google.com/download?id=1lX98fPipRJSkuiAFLqXj16sZuw7ohhqm&export=download&authuser=0&confirm=t&uuid=8bd112e3-8659-4e30-8f90-2c714b5a9a80&at=AIrpjvPP3ARmmuVgYrbW5_qC7Uqv%3A1736352225379"
     },
+    "embeddings_downloads": {},
+    "lora_downloads": {
+        "Júlia_Viana-V1.safetensors": "https://huggingface.co/renanpato23/DeFOOOCUS/resolve/main/J%C3%BAlia%20Viana-V1.safetensors"
+    },
+    
     "previous_default_models": ["realisticStockPhoto_v10.safetensors"]
 }
